@@ -1,5 +1,5 @@
-# nVennR2 2.0.1
+# nVennR2 2.0.2
 
-# nVennR2 2.0.0
-
-* Initial CRAN submission.
+* Added new citation.
+* Fixed a bug that affected function `setVennColor()`. Also added a test
+to prevent future bugs of that type.

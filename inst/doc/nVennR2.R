@@ -68,9 +68,9 @@ myv2 #noshow
 estTime <- estimateExhaustiveRunTime(exampledf, 4)
 estTime
 if (estTime < 10){
-  myv2 <- nVennDiagram(exampledf, maxlevel = 4)
+  myvEx <- nVennDiagram(exampledf, maxlevel = 4)
+  myvEx #noshow
 }
-myv2 #noshow
 
 ## ----getRegion----------------------------------------------------------------
 getVennRegion(myv, c('SAS', 'R'))
