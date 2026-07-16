@@ -1,7 +1,7 @@
-f7d3244fb4a916690cc7aaa3f7b8852a *DESCRIPTION
+e4da8faa886eefb0d258ed87fe5f4dc3 *DESCRIPTION
 0cdf67cdd182a8b9707eb915033920e2 *LICENSE
 01406cadd9c590230ce98625182ac321 *NAMESPACE
-5901e1a542346b9c16b9a7830d493a43 *NEWS.md
+437d105ec2a85243f76d1705e7fe02a7 *NEWS.md
 e1d5b4ef1685c92cec31f335c341d7d4 *R/RcppExports.R
 0c147477dca1ef5389047b10536979f3 *R/nVenn2.R
 2749f2d6df09213fb929b25f305557a3 *R/nVennR2-package.R
@@ -11,7 +11,7 @@ f28172927fba5dc0633fdc64469237ec *README.md
 066ae5fb1a03f3335ab5e47d0946a251 *inst/CITATION
 da6b9f8ad04d86111beae62077155429 *inst/doc/nVennR2.R
 218dd50f99964f58dbd45360d8809bab *inst/doc/nVennR2.Rmd
-a626ab33eb1165a6acdd25f862f9cd72 *inst/doc/nVennR2.html
+6771f3854815a6b82ba72e551e9cab84 *inst/doc/nVennR2.html
 339097166259e02ae6afafd00a4b1dbc *man/estimateExhaustiveRunTime.Rd
 467c41b5b6e1c6bc3a4ac14aad1d16e6 *man/exampledf.Rd
 dee9369f6039cbe902f58fcb29c3e3a4 *man/getVennRegion.Rd
@@ -34,11 +34,11 @@ f78c81d39ef2c25b7a0b1f894e800b53 *man/setVennPalette.Rd
 91571762871befd6ab7095ae65e117f4 *src/elements.h
 47d5ef894d938ffa34bf079a222a4894 *src/nVenn2.cpp
 051a2fdab9b92811e90aee6f0bac313a *src/palettes.h
-a894541c2c0e906f6c6efa082f44edda *src/scene.h
+11a94782309bf37db4e4942a5ef12c9a *src/scene.h
 c17cec16e4c45db45f65547d25de5f9e *src/strFuncts.h
 5f3a38bb50f5e1acb01b9b240b5f14fa *src/topol.h
 5a195450d59f53e4215e23d7544618d9 *tests/testthat.R
-d1fe414f972881783f378b056b91d5b1 *tests/testthat/Rplots.pdf
-4952f650e850437c56c1d16e9e5d1177 *tests/testthat/test-nVenn2.R
+5198df13afc77e06c0fec60beb51dfb3 *tests/testthat/Rplots.pdf
+fe4dcc2f9a97a71c025163b52c8f486f *tests/testthat/test-nVenn2.R
 1821eb927641f974023383657e15e015 *vignettes/error.svg
 218dd50f99964f58dbd45360d8809bab *vignettes/nVennR2.Rmd
